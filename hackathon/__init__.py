@@ -1,2 +1,3 @@
 from .abstract_video import AbstractVideo
 from .opencv_video import OpencvVideo
+from .abstract_person_detector import AbstractPersonDetector
